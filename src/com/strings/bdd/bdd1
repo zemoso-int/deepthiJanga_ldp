@@ -1,0 +1,17 @@
+Feature: User should be able to select skills
+
+Scenario Outline: Should be able to add multiple skills
+    Given: User select a skill
+    When: User selectes another skill from the dropdown the page
+    Then: User should be able to add another skill to input
+
+Scenario Outline: No skill should be selected on page refreshing
+    Given: User select a skill
+    When: User refreshes the page
+    Then: User shouldn't be able to see any skill selected
+
+
+Scenario Outline: Should be able to remove selected skill from input field
+    Given: User select some skill
+    When: User try to remove slected skill
+    Then: User should be able to remove skill from input    
