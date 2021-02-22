@@ -1,0 +1,13 @@
+{
+    "env":{
+        "url": "http://bc15-green-commute.dev-apps.io/",
+        "locationSearchValue": "hyderabad",
+        "locationSelectedValue": "Hyderabad, Telangana, India",
+        "skillSearchValue": "Software Engineer",
+        "distanceValue": "0-10 kms",
+        "InvalidSkill": "ABCD"
+
+    }
+    
+
+}
