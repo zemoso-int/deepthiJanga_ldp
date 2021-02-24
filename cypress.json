@@ -1,0 +1,16 @@
+{
+    "env":{
+        "url": "http://bc15-green-commute.dev-apps.io/",
+        "invalidSkill": "ABCD",
+        "pageTitle": "Green Commute",
+        "yourLocation": "Hyderabad",
+        "jobLocation": "Mumbai",
+        "validSkill": "Manager",
+        "MessageForNoOptions": "No options"
+
+
+
+    },
+    "testFiles": "**/*.feature"
+
+}

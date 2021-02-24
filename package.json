@@ -1,0 +1,29 @@
+{
+  "name": "ldp-2021-cypress",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthi-janga/LDP-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthi-janga/LDP-2021/issues"
+  },
+  "homepage": "https://github.com/deepthi-janga/LDP-2021#readme",
+  "devDependencies": {
+    "@types/cypress-cucumber-preprocessor": "^4.0.0",
+    "cypress": "^6.5.0",
+    "cypress-cucumber-preprocessor": "^4.0.1",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.1.5"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
