@@ -1,5 +1,5 @@
 {
-    "env":{
+    "env": {
         "url": "http://bc15-green-commute.dev-apps.io/",
         "invalidSkill": "ABCD",
         "pageTitle": "Green Commute",
@@ -7,10 +7,17 @@
         "jobLocation": "Mumbai",
         "validSkill": "Manager",
         "MessageForNoOptions": "No options"
-
-
-
     },
-    "testFiles": "**/*.feature"
-
+    "testFiles": "**/*.feature",
+    "reporter": "salty-cypress-testrail-reporter",
+    "reporterOptions": {
+        "domain": "testerdeepthiballa.testrail.io",
+        "username": "deepthi.janga@zemosolabs.com",
+        "password": "Tech11@ze2018",
+        "projectId": 2,
+        "suiteId": 4,
+        "createTestRun": false,
+        "runId": 29,
+        "runName": "Deepthi_TS"
+    }
 }
