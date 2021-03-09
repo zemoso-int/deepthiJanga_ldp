@@ -1,0 +1,32 @@
+[{
+    "id": "7568849",
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "Turtle",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+        "id": 0,
+        "name": "string"
+        }
+    ],
+    "status": "available"
+    },
+    
+    [
+        {
+            "id": 123,
+            "username": "Abc1",
+            "firstName": "Bde2",
+            "lastName": "Zwe",
+            "email": "Abc.bde@gmail.com",
+            "password": "string123",
+            "phone": "98765432",
+            "userStatus": 0
+        }
+    ]
+]

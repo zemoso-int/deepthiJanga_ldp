@@ -1,0 +1,24 @@
+[
+    {
+  
+        "id": 0,
+        "username":  "#(username)",
+        "firstName":  "firstname",
+        "lastName": "lastname",
+        "email": "email",
+        "password": "string",
+        "phone": "string",
+       "userStatus": 0
+     
+    },
+    {
+    "id": "#(id)",
+    "username": "#(username)",
+    "firstName":  "#(firstname)",
+    "lastName": "#(lastname)",
+    "email": "#(email)",
+    "password": "#(password)",
+    "phone": "#(phone)",
+    "userStatus": 0
+    }
+]    
